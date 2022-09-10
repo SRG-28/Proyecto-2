@@ -1,0 +1,9 @@
+﻿  Interfaz.cpp
+C:\Users\Pilar\OneDrive\Desktop\DatosProyecto-Grupo4\DatosProyecto-Grupo4\Interfaz.cpp(182,19): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  main.cpp
+  Node.cpp
+  Random.cpp
+  TwoFour.cpp
+  Validacion.cpp
+  Generando código...
+  DatosProyecto-Grupo4.vcxproj -> C:\Users\Pilar\OneDrive\Desktop\DatosProyecto-Grupo4\Debug\DatosProyecto-Grupo4.exe
